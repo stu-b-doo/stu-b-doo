@@ -1,5 +1,6 @@
 GitHub pages repo
 
-View it at: http://stu-b-doo.github.io/
+View at: http://stu-b-doo.github.io/
 
-Update it by pushing/merging to master branch
+Update by pushing/merging to master branch
+
